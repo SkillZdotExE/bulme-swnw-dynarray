@@ -1,0 +1,15 @@
+C:\repos\HL_DynArray\HL_DynArray\bin\Debug\net7.0\HL_DynArray.exe
+C:\repos\HL_DynArray\HL_DynArray\bin\Debug\net7.0\HL_DynArray.deps.json
+C:\repos\HL_DynArray\HL_DynArray\bin\Debug\net7.0\HL_DynArray.runtimeconfig.json
+C:\repos\HL_DynArray\HL_DynArray\bin\Debug\net7.0\HL_DynArray.dll
+C:\repos\HL_DynArray\HL_DynArray\bin\Debug\net7.0\HL_DynArray.pdb
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\HL_DynArray.csproj.AssemblyReference.cache
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\HL_DynArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\HL_DynArray.AssemblyInfoInputs.cache
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\HL_DynArray.AssemblyInfo.cs
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\HL_DynArray.csproj.CoreCompileInputs.cache
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\HL_DynArray.dll
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\refint\HL_DynArray.dll
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\HL_DynArray.pdb
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\HL_DynArray.genruntimeconfig.cache
+C:\repos\HL_DynArray\HL_DynArray\obj\Debug\net7.0\ref\HL_DynArray.dll
